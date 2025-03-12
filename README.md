@@ -25,4 +25,4 @@
   - ### DBMS : PostgreSQL
   - ### 개발 언어 : Python, TypeScript, other
   - ### 프레임워크 : django rest framework
-  - ### 개발 도구 : Pycharm, docker
+  - ### 개발 도구 : Pycharm, Webstorm, docker
