@@ -1,5 +1,1 @@
-# Source Code
-# 주의사항
-- ### 다른 Open Source SW를 사용하는 경우 저작권을 명시해야 함
-- ### 인턴쉽의 경우 해당 기업의 기밀이 담김 데이터는 제외할 것
-  #### ※ 기업 기밀 데이터가 Github에 공개되었을 시의 책임은 공개한 학생에게 있음 
+![image](https://github.com/user-attachments/assets/c395813a-6861-47b1-8682-e3f80975ccdd)
