@@ -1,0 +1,12 @@
+/* 전체 레이아웃 */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 메인 콘텐츠 */
+.main-content {
+  flex: 1;
+  padding: 20px;
+}

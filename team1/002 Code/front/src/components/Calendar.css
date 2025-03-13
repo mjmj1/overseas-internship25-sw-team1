@@ -1,0 +1,21 @@
+.calendar-container {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.calendar-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.calendar-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* ✅ 기본 높이 설정 (추후 캘린더 UI 적용) */
+    background-color: #f8f9fa;
+}
